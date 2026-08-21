@@ -26,5 +26,3 @@ Step 4:
 Merge results.
 
 Always use multi-agent thinking.
-
-Never solve large projects with a single perspective.
